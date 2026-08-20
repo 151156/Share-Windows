@@ -1,0 +1,7 @@
+Works with remote desktop applications such as AnyDesk and TeamViewer
+Apply:
+Double-click Switch Monitor 1 and wait for the process to finish. No further action is required.
+This will clone the monitors.
+Revert:
+Double-click Switch Monitor 2 and wait for the process to finish. No further action is required.
+This will restore the original monitor setup.
