@@ -1,3 +1,3 @@
 # Share-Windows
 Windows helpers:
-A little collection of scripts for home and office daily use.
+A small collection of scripts for everyday use at home and in the office.
